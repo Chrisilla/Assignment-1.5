@@ -1,0 +1,24 @@
+1) Explain hadoop in layman's term :
+	#To understand Hadoop, we have to understand two fundamental things about it.
+	#Hadoop lets us store files bigger than what can be stored on one particular node or server.
+	#So we can store very, very large files. It also lets you store many, many files.
+	#Hadoop is a collection of open source programs or procedures relating to Big Data analysis.
+	#Hadoop is open source, it is freely available for use, reuse and modification .
+
+2) Explain the components of Hadoop framework :
+	1. MapReduce – A software programming model for processing large sets of data in parallel.
+	2. HDFS – The Java-based distributed file system that can store all kinds of data without prior 
+		organization.
+	3. YARN – A resource management framework for scheduling and handling resource requests
+		 from distributed applications.
+	4. HIVE - converts every query into mapreduce jobs that run on top of YARN.
+	5. HBASE - is part of a long list of Apache Hadoop add-ons that includes tools such as Hive, Pig and ZooKeeper.
+	6. ZOOKEEPER- HBase depends on ZooKeeper and by default it manages a ZooKeeper instance as the authority on cluster state.
+	
+
+3) Explain the reasons to learn Big data technologies :
+	1) Hadoop brings in better career opportunities
+	2) Benefits of Speed, Capacity and Scalability of Cloud Storage
+	3) End Users Can Visualize Data
+	4) Data Analysis Methods, Capabilities Will Evolve
+	5) Big data can be used to improve training and understanding competitors
